@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Environment variables
+.env
+
+# Configuration
+
+reports_new.json
+reports_archive.json
